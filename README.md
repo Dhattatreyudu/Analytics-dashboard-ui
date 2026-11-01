@@ -154,7 +154,7 @@ Send an email to **`admin@infionex.com`** with the following details:
   Project Overview:
   - Problem Statement: PS 02 (Interactive Analytics Dashboard UI)
   - Tech Stack: React 19, Vite, Tailwind CSS, Recharts, Lucide React, React Router
-  - GitHub Repository: https://github.com/<your-username>/<your-repo-name>
+  - GitHub Repository: https://github.com/Dhattatreyudu/analytics-dashboard-ui
   - Attached Report: PROJECT_REPORT.md
 
   Key Deliverables Completed:

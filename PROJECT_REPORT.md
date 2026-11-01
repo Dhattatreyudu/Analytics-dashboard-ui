@@ -2,7 +2,9 @@
 ## PROJECT COMPLETION REPORT
 
 **Document ID:** `IFX/INTERN/FE/2026-10/REPORT`  
-**Candidate Name:** Frontend Developer Intern  
+**Candidate Name:** Dhattatreyudu  
+**GitHub Profile:** https://github.com/Dhattatreyudu  
+**Repository Link:** https://github.com/Dhattatreyudu/analytics-dashboard-ui  
 **Program:** Frontend Development Internship 2026  
 **Selected Problem Statement:** **Problem Statement 02: Interactive Analytics Dashboard UI**  
 **Submission Email:** `admin@infionex.com`  
