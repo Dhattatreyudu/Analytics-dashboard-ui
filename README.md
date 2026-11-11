@@ -110,7 +110,7 @@ We organized the codebase into isolated, reusable modules conforming to clean co
 ### 5.2 Setup & Execution
 1. Open PowerShell / Terminal in the project root:
    ```powershell
-   cd C:\Users\DHATTU\.gemini\antigravity\scratch\analytics-dashboard-ui
+   git clone https://github.com/Dhattatreyudu/Analytics-dashboard-ui.git
    ```
 
 2. Install dependencies:
