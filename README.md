@@ -2,8 +2,7 @@
 
 **Document Code:** `IFX/INTERN/FE/2026-10`  
 **Internship Track:** Frontend Development  
-**Selected Problem Statement:** **Problem Statement 02 — Interactive Analytics Dashboard UI**  
-**Submission Contact:** `admin@infionex.com`  
+**Selected Problem Statement:** **Problem Statement 02 — Interactive Analytics Dashboard UI**    
 
 ---
 
@@ -138,38 +137,5 @@ To preview the production build locally:
 npm run preview
 ```
 
----
 
-## 📬 6. InfioneX Email Submission Template
 
-Send an email to **`admin@infionex.com`** with the following details:
-
-- **Subject:** `InfioneX Internship 2026 - Problem Statement 02 Submission - [Your Full Name]`
-- **Body:**
-  ```text
-  Dear InfioneX Talent Acquisition Team,
-
-  I have completed Problem Statement 02 (Interactive Analytics Dashboard UI) for the InfioneX Frontend Internship Program 2026.
-
-  Project Overview:
-  - Problem Statement: PS 02 (Interactive Analytics Dashboard UI)
-  - Tech Stack: React 19, Vite, Tailwind CSS, Recharts, Lucide React, React Router
-  - GitHub Repository: https://github.com/Dhattatreyudu/analytics-dashboard-ui
-  - Attached Report: PROJECT_REPORT.md
-
-  Key Deliverables Completed:
-  1. Responsive dashboard layout with sidebar, topbar, and summary KPI cards.
-  2. 4 interactive chart types (Area/Line, Bar, Donut, and Regional distribution).
-  3. Sortable & searchable data table with multi-filter, pagination, receipt modal, and CSV export.
-  4. Light / Dark mode toggle with persistent state.
-  5. Mock REST API layer with loading skeletons and controllable error states with retry support.
-  6. Multi-page routing across Overview, Deep Analytics, Ledger, Customers, and Settings.
-
-  Thank you for your review and guidance.
-
-  Warm regards,
-  [Your Full Name]
-  ```
-
----
-*Authored for InfioneX IT Solutions Frontend Internship Program 2026.*
